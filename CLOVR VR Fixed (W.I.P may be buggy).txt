@@ -1,9 +1,3 @@
---[[
---fixed by baconcat
---hope you like the fixed clovr vr!!
---credits- GenesisFE because the reanimate, also the guys who made CLOVR.
-
-]]
 
 if _G.GenesisFDless then 
 	game:FindFirstChildOfClass("StarterGui"):SetCore("SendNotification",{Title="FDLESS",Text="Using FDless loaded by previously executed scripts to prevent reanimate conflicts. Rejoin to update reanimate settings.",Duration=10})
@@ -3356,3 +3350,4 @@ socket5.Attachment1 = A1H
 -----------------------------------------------------------
 
 wait(9e9)
+
