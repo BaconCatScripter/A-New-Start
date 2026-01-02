@@ -1,7 +1,7 @@
 --[[
-//fixed by baconcat
-hope you like the fixed clovr vr script!!
-credits- GenesisFE because the reanimate, also the guys who made CLOVR.
+--fixed by baconcat
+--hope you like the fixed clovr vr!!
+--credits- GenesisFE because the reanimate, also the guys who made CLOVR.
 
 ]]
 
@@ -3354,4 +3354,5 @@ socket5.Attachment0 = A0H
 socket5.Attachment1 = A1H
 --loadstring(game:HttpGet("https://ghostbin.co/paste/krmyf/raw", true))()
 -----------------------------------------------------------
+
 wait(9e9)
