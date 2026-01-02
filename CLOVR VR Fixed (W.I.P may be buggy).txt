@@ -20,7 +20,6 @@ end
 	Patchma Hub Discord: https://discord.com/invite/QMy5f6DrbH
 ]]
 
---no need to get and index the library tables with function names every time the script uses them
 local osclock=os.clock
 local tspawn=task.spawn
 local twait=task.wait
@@ -3350,4 +3349,5 @@ socket5.Attachment1 = A1H
 -----------------------------------------------------------
 
 wait(9e9)
+
 
