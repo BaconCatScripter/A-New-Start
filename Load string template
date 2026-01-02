@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("enter link here"))()
+
+i made this cuz https://loadstringer.mattlawz.dev is broken now which is sad.
